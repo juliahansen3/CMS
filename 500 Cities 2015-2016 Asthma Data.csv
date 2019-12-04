@@ -1,0 +1,501 @@
+StateAbbr,PlaceName,Population2010,CASTHMA_CrudePrev,CASTHMA_AdjPrev
+CA,Folsom,72203,8.6,8.5
+FL,Largo,77648,7.9,8.1
+CA,Berkeley,112580,8.8,8.7
+CA,Napa,76915,8.9,8.9
+FL,Sunrise,84439,8,8
+FL,Pembroke Pines,154750,7.1,7.1
+NJ,Trenton,84913,10.8,10.7
+CO,Pueblo,106595,9.7,9.7
+WI,Racine,78860,10.1,10.1
+WA,Auburn,70180,10.1,10
+TX,Austin,790390,8.3,8.2
+IL,Waukegan,89078,10,10
+MN,Brooklyn Park,75781,8.3,8.2
+WA,Renton,90927,9.1,9.1
+OK,Oklahoma City,579999,10.2,10.1
+GA,Augusta,195844,10.2,10.1
+MA,Springfield,153060,12.7,12.6
+CA,Bakersfield,347483,9.5,9.4
+LA,Lake Charles,71993,9.7,9.7
+IL,Schaumburg,74227,8.2,8.2
+TN,Clarksville,132929,10.5,10.3
+FL,Miami,399457,7.4,7.4
+WI,Green Bay,104057,9.5,9.5
+SD,Sioux Falls,153888,7.9,7.9
+CO,Greeley,92889,9.3,9.2
+CA,Visalia,124442,9.2,9.2
+TX,Arlington,365438,9.4,9.3
+IA,Davenport,99685,8.6,8.5
+TX,Round Rock,99887,8.5,8.4
+CA,Sunnyvale,140081,7,7
+CA,Upland,73732,9,9
+NY,Syracuse,145170,12.8,12.7
+FL,Tampa,335709,8.4,8.3
+CA,San Mateo,97207,7.9,8
+TX,Lewisville,95290,8.5,8.5
+FL,Pompano Beach,99845,8.3,8.4
+NM,Santa Fe,67947,9.3,9.3
+CA,San Ramon,72148,7.2,7.2
+CA,Stockton,291707,9.5,9.4
+MI,Livonia,96942,9.7,9.8
+CA,San Diego,1307402,8,8
+NV,Las Vegas,583756,8.7,8.7
+IN,Carmel,79191,8.7,8.7
+NC,Greensboro,269666,9.1,9
+FL,Miramar,122041,7.8,7.6
+OR,Eugene,156185,10.3,10.2
+OR,Hillsboro,91611,9.7,9.7
+CA,Modesto,201165,9.5,9.4
+CA,Concord,122067,8.6,8.6
+AZ,Tucson,520116,10.8,10.8
+CA,Norwalk,105549,7.9,7.9
+MI,Kalamazoo,74262,11.9,11.8
+IL,Rockford,152871,10.4,10.5
+SC,Rock Hill,66154,9.9,9.7
+IA,Sioux City,82684,8.7,8.6
+IL,Champaign,81055,9.6,9.2
+AZ,Gilbert,208453,9.3,9.1
+KS,Wichita,382368,9.7,9.6
+CA,Chino Hills,74799,7.8,7.6
+CA,Moreno Valley,193365,9.3,9.1
+CA,San Marcos,83781,8.4,8.3
+TX,Garland,226876,9.1,9
+FL,Hialeah,224669,7,7
+TX,Baytown,71802,9,9
+MO,Independence,116830,10.2,10.2
+AL,Montgomery,205764,10.4,10.3
+WA,Kennewick,73917,10.6,10.6
+CA,Thousand Oaks,126683,8.1,8.1
+AZ,Chandler,236123,9.4,9.3
+CO,Centennial,100377,8,7.9
+FL,Davie,91992,7.3,7.2
+WA,Seattle,608660,8.9,8.9
+MN,Plymouth,70576,7.4,7.3
+NM,Rio Rancho,87521,9.7,9.7
+PA,Reading,88082,11.7,11.7
+AZ,Mesa,439041,10.1,10.1
+FL,Deltona,85182,8.3,8.3
+OR,Portland,583776,9.5,9.5
+IL,Springfield,116250,9.9,10
+KY,Louisville,597337,12.3,12.3
+AR,Little Rock,193524,9.3,9.3
+IN,South Bend,101168,11.5,11.5
+ME,Portland,66194,11.4,11.4
+CT,Hartford,124775,12.5,12.3
+NC,Charlotte,731424,8.6,8.5
+DE,Wilmington,70851,10.7,10.7
+FL,Plantation,84955,7.4,7.4
+CA,Redding,89861,9.6,9.6
+TX,Abilene,117063,9.3,9.2
+MI,Flint,102434,13.7,13.5
+AZ,Avondale,76238,10,9.9
+CA,Hayward,144186,8.8,8.8
+TX,Fort Worth,741206,9.6,9.5
+CA,Glendale,191719,8.4,8.4
+NC,Asheville,83393,8.3,8.3
+UT,Layton,67311,8.7,8.6
+TX,Pearland,91252,8,7.9
+PA,Erie,101786,11.2,11.2
+IL,Joliet,147433,9.7,9.7
+CA,Tracy,82922,8.8,8.7
+GA,Johns Creek,76728,7,6.8
+NC,Jacksonville,70145,8,8.4
+IA,Des Moines,203433,8.6,8.6
+MI,Southfield,71739,11.3,11.4
+PA,Allentown,118032,10.7,10.7
+NY,Mount Vernon,67292,12.4,12.4
+FL,Lakeland,97422,8.6,8.7
+CA,Elk Grove,153015,9,8.9
+AZ,Peoria,154065,9.7,9.7
+VA,Roanoke,97032,9.9,9.9
+FL,Miami Gardens,107167,9.4,9.3
+GA,Athens,115452,9.6,9.3
+CA,Sacramento,466488,9.9,9.8
+NC,Raleigh,403892,8.5,8.4
+CA,Simi Valley,124237,8.4,8.3
+TN,Knoxville,178874,10.9,10.8
+UT,St. George,72897,8.7,8.8
+CA,Mountain View,74066,7.4,7.4
+CO,Denver,600158,8.8,8.8
+WA,Kent,92411,10,9.9
+IA,Cedar Rapids,126326,8.1,8
+CA,Inglewood,109673,9.9,9.8
+FL,Boynton Beach,68217,8,8.2
+MI,Grand Rapids,188040,11,11
+CA,Rancho Cucamonga,165269,8.8,8.6
+NM,Albuquerque,545852,10.4,10.3
+OK,Edmond,81405,9.2,9.1
+NH,Nashua,86494,10.4,10.4
+OK,Norman,110925,9.9,9.6
+MT,Billings,104170,9.1,9.1
+IN,Evansville,117429,11.3,11.3
+MO,Springfield,159498,10,9.9
+TX,Sugar Land,78817,7.2,7
+MA,Worcester,181045,11.4,11.4
+IL,Aurora,197899,9.2,9.2
+WA,Federal Way,89306,9.8,9.7
+CA,Santa Monica,89736,7.7,7.7
+IN,Gary,80294,13,13
+WA,Bellingham,80885,10.3,10.1
+WA,Bellevue,122363,7.9,7.9
+NY,New York,8175133,10.5,10.5
+MI,Troy,80980,8.8,8.7
+CA,Santa Barbara,88410,8.4,8.4
+CA,Newport Beach,85186,7.7,7.8
+TX,Mesquite,139824,9.6,9.5
+MI,Detroit,713777,14,13.9
+MA,Lawrence,76377,11.4,11.3
+CA,San Buenaventura (Ventura),106433,8.5,8.5
+CT,New Haven,129779,11.2,11.2
+TX,Frisco,116989,7.7,7.7
+KS,Topeka,127473,10.1,10.2
+CA,Menifee,77519,8.7,8.7
+GA,Savannah,136286,10,9.9
+NY,Yonkers,195976,10.7,10.7
+CA,Palmdale,152750,9.3,9.2
+FL,Deerfield Beach,75018,8.2,8.4
+OK,Broken Arrow,98850,9.4,9.3
+TX,Wichita Falls,104553,9.1,9.1
+TX,Waco,124805,10,9.9
+CA,Chula Vista,243916,7.9,7.9
+CA,Alhambra,83089,6.8,6.8
+NC,Wilmington,106476,8.9,8.8
+NV,Henderson,257729,8.2,8.2
+KS,Overland Park,173372,8.3,8.3
+CA,Long Beach,462257,8.7,8.6
+FL,Hollywood,140768,7.7,7.7
+CA,Rialto,99171,10,9.9
+MI,Dearborn,98153,11.6,11.6
+CA,Oakland,390724,9.8,9.7
+MO,St. Louis,319294,11.4,11.4
+CA,Riverside,303871,8.8,8.7
+PA,Scranton,76089,10.7,10.7
+IL,Cicero,83891,9.4,9.4
+IL,Peoria,115007,10.1,10.1
+AL,Mobile,195111,9.9,9.9
+CA,Lakewood,80048,8,7.9
+CA,Clovis,95631,9.1,9
+IA,Waterloo,68406,8.8,8.9
+MA,New Bedford,95072,13,13.1
+CT,Bridgeport,144229,10.4,10.3
+CA,Lynwood,69772,9.5,9.4
+CA,Escondido,143911,8.9,8.8
+FL,Fort Lauderdale,165521,8,8
+NC,Greenville,84554,9.6,9.4
+CA,Fullerton,135161,8,8
+CA,Vallejo,115942,9.3,9.2
+MN,Bloomington,82893,7.8,7.8
+CA,Fremont,214089,7.2,7.2
+TX,Midland,111147,8.6,8.6
+TX,Plano,259841,7.8,7.7
+CA,Lake Forest,77264,8,7.9
+CA,Redondo Beach,66748,7.5,7.4
+NC,Concord,79066,8.5,8.5
+CA,Roseville,118788,8.5,8.5
+TX,Tyler,96900,9.6,9.6
+NY,Buffalo,261310,12.7,12.6
+OK,Lawton,96867,10.2,10.1
+NY,Schenectady,66135,12.3,12.3
+TX,Laredo,236091,8.6,8.6
+SC,North Charleston,97471,10.2,10.1
+AZ,Glendale,226721,10.4,10.3
+CA,Pleasanton,70285,8,7.9
+IN,Muncie,70085,11.5,11.3
+UT,West Valley City,129480,9.6,9.5
+NJ,Clifton,84136,8.1,8.1
+CA,Perris,68386,9.3,9.2
+MA,Lowell,106519,10.9,10.9
+PA,Bethlehem,74982,10.1,10.1
+GA,Albany,77434,11,10.9
+TN,Murfreesboro,108755,10.1,9.9
+TX,Killeen,127921,9.7,9.5
+VA,Richmond,204214,10.1,10
+OK,Tulsa,391906,10.3,10.3
+CA,Garden Grove,170883,8,7.9
+CA,Santa Clarita,176320,8.1,8
+FL,Jacksonville,821784,8.3,8.2
+CA,Whittier,85331,7.7,7.7
+MI,Lansing,114297,11.8,11.7
+TX,Carrollton,119097,8.3,8.1
+IN,Fort Wayne,253691,10.9,10.9
+CO,Lakewood,142980,9,9
+GA,Macon,91351,11.2,11.1
+UT,Salt Lake City,186440,8.9,8.9
+CA,San Bernardino,209924,10.7,10.6
+FL,Gainesville,124354,8.6,8.4
+CA,Los Angeles,3792621,8.5,8.5
+CA,Chino,77983,8.8,8.7
+OH,Canton,73007,11.3,11.3
+ND,Fargo,105549,8.8,8.7
+TX,Longview,80455,9.7,9.7
+NV,Sparks,90264,8.9,8.8
+IN,Indianapolis,820445,10.9,10.9
+WV,Charleston,51400,10.8,10.9
+NJ,Newark,277140,10.8,10.7
+TX,Amarillo,190695,9.2,9.2
+AL,Tuscaloosa,90468,9.8,9.7
+GA,Columbus,189885,9.5,9.5
+CA,Victorville,115903,10.2,10.1
+WI,Waukesha,70718,8.7,8.6
+SD,Rapid City,67956,8.3,8.3
+AZ,Surprise,117517,9.6,9.7
+IL,Arlington Heights,75101,8.4,8.4
+MN,Rochester,106769,7.9,7.9
+TX,El Paso,649121,8.1,8.1
+IL,Evanston,74486,8.8,8.8
+WI,Milwaukee,594833,11,11
+CA,Turlock,68549,9.4,9.3
+VA,Suffolk,84585,9.5,9.5
+AZ,Scottsdale,217385,9,9.1
+OH,Toledo,287208,11.1,11.1
+MO,O'Fallon,79329,9.1,9
+CA,Santa Rosa,167815,9.2,9.2
+TN,Chattanooga,167674,10.7,10.7
+CA,Hemet,78657,9.5,9.7
+OR,Gresham,105594,10.3,10.2
+TX,Bryan,76201,9.5,9.4
+WA,Tacoma,198397,10.6,10.5
+CA,Buena Park,80530,8.1,8
+FL,Palm Bay,103190,8.6,8.6
+CO,Boulder,97385,8.4,8.1
+VA,Alexandria,139966,8.1,8.1
+CA,Antioch,102372,9.3,9.2
+MA,Lynn,90329,11.5,11.4
+MO,Lee's Summit,91364,9.1,9.1
+MN,Duluth,86265,8.6,8.5
+WA,Everett,103019,10.1,10.1
+MN,St. Paul,285068,8.5,8.4
+GA,Roswell,88346,7.5,7.5
+VA,Chesapeake,222209,9,8.9
+CA,Livermore,80968,8.8,8.7
+CA,Carlsbad,105328,7.8,7.8
+PA,Pittsburgh,305704,10.7,10.6
+TX,Grand Prairie,175396,9,8.9
+TX,Allen,84246,7.9,7.9
+CO,Fort Collins,143986,9.1,8.8
+CA,Anaheim,336265,8.4,8.4
+CA,Pomona,149058,8.6,8.5
+FL,Boca Raton,84392,6.9,6.9
+PA,Philadelphia,1526006,11.6,11.6
+CT,Danbury,80893,9.3,9.2
+SC,Mount Pleasant,67843,7.9,7.8
+WA,Spokane Valley,89755,10.7,10.7
+HI,Honolulu,953207,9.5,9.6
+TX,Missouri City,67358,8.6,8.4
+DC,Washington,601723,10.1,10
+TX,San Angelo,93200,8.8,8.7
+CA,Tustin,75540,8,8
+OH,Parma,81601,9.3,9.4
+RI,Warwick,82672,11.3,11.4
+AZ,Phoenix,1445632,10.3,10.2
+UT,West Jordan,103712,9,8.9
+CA,Milpitas,66790,6.7,6.7
+CO,Colorado Springs,416427,9.5,9.5
+FL,Port St. Lucie,164603,8.2,8.2
+IL,Bolingbrook,73366,9,8.9
+CA,Huntington Beach,189992,8.2,8.2
+FL,St. Petersburg,244769,8.1,8.1
+MI,Warren,134056,11.4,11.5
+CA,Fontana,196069,9.3,9.2
+NY,New Rochelle,77062,10.4,10.5
+MA,Fall River,88857,13,13.1
+MO,St. Joseph,76780,10.1,10.1
+IL,Elgin,108188,9.1,9.1
+OR,Medford,74907,10.9,11.1
+CA,Union City,69516,7.5,7.5
+CA,Temecula,100097,8.3,8.1
+TX,Corpus Christi,305215,8.6,8.5
+TX,McAllen,129877,7.7,7.7
+TX,Lubbock,229573,9.2,9.1
+MI,Westland,84094,11.1,11.1
+IL,Chicago,2695598,9.9,9.9
+CA,Torrance,145438,7.1,7
+KS,Kansas City,145786,10.7,10.6
+MS,Gulfport,67793,9.2,9.1
+LA,Lafayette,120623,9.2,9.1
+CO,Aurora,325078,9.2,9.1
+VA,Lynchburg,75568,9.7,9.6
+NE,Omaha,408958,8.6,8.5
+MA,Quincy,92271,9.8,9.8
+NY,Albany,97856,11.9,11.9
+MI,Farmington Hills,79740,9.4,9.4
+CO,Loveland,66859,8.9,8.9
+CA,Hawthorne,84293,9.3,9.2
+TX,Irving,216290,8.5,8.5
+AZ,Tempe,161719,9.9,9.6
+WA,Yakima,91067,10.6,10.6
+FL,Coral Springs,121096,7.6,7.4
+MI,Ann Arbor,113934,9.8,9.3
+CT,Stamford,122643,8.6,8.6
+CT,Norwalk,85603,8.9,8.9
+AZ,Yuma,93064,9.9,9.9
+OR,Salem,154637,10.4,10.4
+CA,El Monte,113475,8.2,8.1
+TX,Pharr,70400,8.3,8.3
+CA,West Covina,106098,7.3,7.3
+CA,Santa Clara,116468,7.3,7.4
+TX,Odessa,99940,8.8,8.8
+NV,North Las Vegas,216961,9.1,9.1
+CA,Baldwin Park,75390,7.9,7.8
+CO,Thornton,118772,9.2,9.1
+CA,Salinas,150441,9.2,9.1
+CO,Longmont,86270,8.5,8.4
+MD,Baltimore,620961,12.3,12.2
+CA,Vista,93834,8.7,8.7
+CA,South Gate,94396,8.7,8.6
+AL,Huntsville,180105,9.5,9.5
+AL,Birmingham,212237,10.5,10.5
+AL,Hoover,81619,7.9,7.9
+CA,Daly City,101123,7,7
+IL,Naperville,141853,8.1,8
+FL,Lauderhill,66887,9.9,9.9
+LA,New Orleans,343829,9.4,9.3
+RI,Cranston,80387,11.3,11.3
+IN,Lafayette,67140,10.8,10.7
+IA,Iowa City,67862,8.3,7.9
+MA,Cambridge,105162,9.7,9.7
+NM,Las Cruces,97618,10.3,10.3
+TX,Beaumont,118296,9.9,9.9
+MA,Brockton,93810,12.9,12.9
+TX,Denton,113383,9.1,8.7
+UT,Orem,88328,8.8,8.7
+LA,Baton Rouge,229493,9.4,9.4
+UT,Ogden,82825,9.6,9.5
+AK,Anchorage,291826,9.3,9.1
+WI,Kenosha,99218,9.6,9.5
+CA,Corona,152374,8.3,8.2
+CA,Redwood City,76815,8.2,8.2
+CA,Merced,78958,9.8,9.7
+CA,Compton,96455,10.2,10.2
+NJ,Union City,66455,8.4,8.3
+GA,Sandy Springs,93853,7.7,7.7
+WA,Vancouver,161791,10.2,10.2
+MA,Newton,85146,9.3,9.2
+KY,Lexington,295803,11.3,11.2
+UT,Provo,112488,9.6,8.9
+SC,Charleston,120083,8.9,8.8
+TX,Edinburg,77100,7.6,7.6
+OH,Cleveland,396815,11.8,11.7
+RI,Pawtucket,71148,13,12.9
+CA,Lancaster,156633,9.4,9.3
+CA,Irvine,212375,7.3,7.2
+TX,Brownsville,175023,8.8,8.7
+NV,Reno,225221,8.9,8.8
+TN,Memphis,646889,11.7,11.6
+CA,Oceanside,167086,8.5,8.5
+OR,Bend,76639,9.7,9.7
+TX,League City,83560,8.2,8.1
+MO,Columbia,108500,9.8,9.4
+SC,Columbia,129272,9.4,9.4
+FL,Orlando,238300,8.2,8.2
+FL,Melbourne,76068,8.3,8.3
+FL,Clearwater,107685,7.8,7.9
+AR,Springdale,69797,9.4,9.4
+CA,Manteca,67096,9.3,9.3
+ID,Meridian,75092,8.9,8.9
+CA,Murrieta,103466,8.4,8.3
+TN,Nashville,601222,10.4,10.4
+IL,Palatine,68557,8.5,8.4
+TX,College Station,93857,9.2,8.4
+TX,Richardson,99223,7.9,7.9
+IL,Bloomington,76610,9.1,9.1
+OH,Akron,199110,11.1,11
+CA,Bellflower,76616,8.6,8.5
+MI,Sterling Heights,129699,10.6,10.6
+OH,Dayton,141527,11.6,11.5
+RI,Providence,178042,12.6,12.4
+CA,Alameda,73812,8.3,8.3
+CA,Orange,136416,8.3,8.2
+VA,Newport News,180719,9.7,9.7
+TX,Dallas,1197816,9.4,9.3
+MA,Boston,617594,11.4,11.3
+CT,Waterbury,110366,11.5,11.5
+NC,High Point,104371,9.2,9.2
+NJ,Jersey City,247597,8.3,8.4
+NC,Cary,135234,7.4,7.3
+VA,Norfolk,242803,9.6,9.6
+CO,Westminster,106114,8.9,8.8
+CA,San Jose,945942,7.8,7.7
+WI,Madison,233209,8.8,8.6
+AR,Fayetteville,73580,9.1,8.8
+GA,Warner Robins,66588,9.5,9.4
+NJ,Camden,77344,11.1,11
+MA,Somerville,75754,10.1,10.1
+CA,Chico,86187,9.7,9.5
+TX,McKinney,131117,8.4,8.3
+MI,Wyoming,72125,10.7,10.6
+CA,Richmond,103701,9.5,9.4
+IN,Hammond,80830,10.6,10.6
+LA,Kenner,66702,8.6,8.6
+VA,Virginia Beach,437994,8.5,8.4
+TX,San Antonio,1327407,8.4,8.4
+AR,Jonesboro,67263,9.4,9.3
+FL,Miami Beach,87779,6.4,6.5
+IN,Fishers,76794,9,8.9
+NH,Manchester,109565,10.9,10.9
+NJ,Paterson,146199,9.9,9.8
+MI,Rochester Hills,70995,9,9
+NC,Winston-Salem,229617,9.2,9.1
+CA,El Cajon,99478,9.6,9.5
+FL,Palm Coast,75180,7.9,8
+LA,Shreveport,199311,9.9,9.8
+VT,Burlington,42417,10.9,10.6
+FL,Tallahassee,181376,8.5,8.1
+WA,Spokane,208916,11,11
+MT,Missoula,66788,9.3,9.2
+CA,Burbank,103340,8.1,8.1
+OH,Cincinnati,296943,10.9,10.8
+CA,Fresno,494665,9.8,9.7
+TX,Houston,2099451,8.8,8.8
+CA,Hesperia,90173,10.2,10.1
+WY,Cheyenne,59466,8.6,8.6
+CA,Santa Ana,324528,8.9,8.8
+NY,Rochester,210565,12.6,12.5
+VA,Hampton,137436,9.8,9.7
+CA,San Leandro,84950,8.7,8.7
+WI,Appleton,72623,8.9,8.9
+KS,Olathe,125872,8.7,8.7
+NJ,Passaic,69781,9.2,9.1
+GA,Atlanta,420003,9,9
+CA,Redlands,68747,9.1,9
+CA,Citrus Heights,83301,10.1,10.1
+FL,Cape Coral,154305,7.6,7.6
+CA,Santa Maria,99553,9.5,9.5
+TX,Pasadena,149043,8.6,8.5
+VA,Portsmouth,95535,10.2,10.2
+CA,Apple Valley,69135,10.1,10.1
+CA,Carson,91714,8.1,8
+MO,Kansas City,459787,10.3,10.2
+NC,Gastonia,71741,9.4,9.4
+NE,Lincoln,258379,8.3,8.2
+MN,Minneapolis,382578,8.5,8.4
+AR,Fort Smith,86209,10.2,10.2
+CO,Arvada,106433,9,9
+IL,Decatur,76122,10.6,10.7
+NJ,Elizabeth,124969,8.9,8.8
+CA,Vacaville,92428,9.2,9.1
+CA,Costa Mesa,109960,8.5,8.4
+KS,Lawrence,87643,9.5,9.1
+CA,Fairfield,105321,9.4,9.4
+UT,Sandy,87461,8.7,8.6
+CA,San Francisco,805235,7.8,7.8
+FL,West Palm Beach,99919,8,8
+ID,Boise City,205671,9.1,9
+CA,Westminster,89701,7.9,7.8
+OR,Beaverton,89803,9.6,9.6
+CA,Downey,111772,7.9,7.9
+MS,Jackson,173514,10.1,10
+ID,Nampa,81557,10,10
+CA,Oxnard,197899,8.8,8.7
+CA,Pasadena,137122,7.9,7.9
+CA,Mission Viejo,93305,8,8
+CA,Indio,76036,8.7,8.7
+IN,Bloomington,80405,10.9,10.2
+OH,Youngstown,66982,11.3,11.3
+NC,Fayetteville,200564,9.2,9.1
+NC,Durham,228330,8.8,8.8
+OH,Columbus,787033,10.1,10
+CT,New Britain,73206,11.3,11.3
+TX,Mission,77058,7.8,7.8
+CA,Ontario,163924,9.4,9.3
