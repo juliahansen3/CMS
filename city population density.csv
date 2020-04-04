@@ -1,0 +1,301 @@
+City,Population Density (Persons/Square Mile),2016 Population,Land Area (Square Miles)
+"New York, New York","28,211","8,537,673",303
+"Los Angeles, California","8,484","3,976,322",469
+"Chicago, Illinois","11,883","2,704,958",228
+"Houston, Texas","3,842","2,303,482",600
+"Phoenix, Arizona","3,126","1,615,017",517
+"Philadelphia, Pennsylvania","11,692","1,567,872",134
+"San Antonio, Texas","3,238","1,492,510",461
+"San Diego, California","4,326","1,406,630",325
+"Dallas, Texas","3,870","1,317,929",341
+"San Jose, California","5,808","1,025,350",177
+"Austin, Texas","3,182","947,890",298
+"Jacksonville, Florida","1,179","880,619",747
+"San Francisco, California","18,581","870,887",47
+"Columbus, Ohio","3,960","860,090",217
+"Indianapolis, Indiana","2,366","855,164",361
+"Fort Worth, Texas","2,513","854,113",340
+"Charlotte, North Carolina","2,829","842,051",298
+"Seattle, Washington","8,391","704,352",84
+"Denver, Colorado","4,530","693,060",153
+"El Paso, Texas","2,676","683,080",255
+"Washington, District of Columbia","11,158","681,170",61
+"Boston, Massachusetts","13,943","673,184",48
+"Detroit, Michigan","4,849","672,795",139
+"Nashville, Tennessee","1,390","660,388",475
+"Memphis, Tennessee","2,072","652,717",315
+"Portland, Oregon","4,795","639,863",133
+"Oklahoma City, Oklahoma","1,053","638,367",606
+"Las Vegas, Nevada","4,660","632,912",136
+"Louisville, Kentucky","1,895","616,261",325
+"Baltimore, Maryland","7,594","614,664",81
+"Milwaukee, Wisconsin","6,191","595,047",96
+"Albuquerque, New Mexico","2,979","559,277",188
+"Tucson, Arizona","2,341","530,706",227
+"Fresno, California","4,663","522,053",112
+"Sacramento, California","5,058","495,234",98
+"Mesa, Arizona","3,551","484,587",136
+"Kansas City, Missouri","1,529","481,420",315
+"Atlanta, Georgia","3,549","472,522",133
+"Long Beach, California","9,348","470,130",50
+"Colorado Springs, Colorado","2,391","465,101",195
+"Raleigh, North Carolina","3,211","458,880",143
+"Miami, Florida","12,645","453,579",36
+"Virginia Beach, Virginia","1,818","452,602",249
+"Omaha, Nebraska","3,517","446,970",127
+"Oakland, California","7,528","420,005",56
+"Minneapolis, Minnesota","7,664","413,651",54
+"Tulsa, Oklahoma","2,049","403,090",197
+"Arlington, Texas","4,096","392,772",96
+"New Orleans, Louisiana","2,311","391,495",169
+"Wichita, Kansas","2,448","389,902",159
+"Cleveland, Ohio","4,965","385,809",78
+"Tampa, Florida","3,326","377,165",113
+"Bakersfield, California","2,648","376,380",142
+"Aurora, Colorado","2,338","361,710",155
+"Urban Honolulu, Hawaii","5,813","351,792",61
+"Anaheim, California","7,043","351,043",50
+"Santa Ana, California","12,256","334,217",27
+"Corpus Christi, Texas","2,028","325,733",161
+"Riverside, California","4,002","324,722",81
+"Lexington, Kentucky","1,123","318,449",284
+"St. Louis, Missouri","5,030","311,404",62
+"Stockton, California","4,979","307,072",62
+"Pittsburgh, Pennsylvania","5,484","303,625",55
+"St. Paul, Minnesota","5,818","302,398",52
+"Cincinnati, Ohio","3,834","298,800",78
+"Anchorage, Alaska",175,"298,192","1,705"
+"Henderson, Nevada","2,719","292,969",108
+"Greensboro, North Carolina","2,269","287,027",127
+"Plano, Texas","3,996","286,057",72
+"Newark, New Jersey","11,648","281,764",24
+"Lincoln, Nebraska","3,146","280,364",89
+"Toledo, Ohio","3,452","278,508",81
+"Orlando, Florida","2,707","277,173",102
+"Chula Vista, California","5,383","267,172",50
+"Irvine, California","4,025","266,122",66
+"Fort Wayne, Indiana","2,391","264,488",111
+"Jersey City, New Jersey","17,860","264,152",15
+"Durham, North Carolina","2,450","263,016",107
+"St. Petersburg, Florida","4,227","260,999",62
+"Laredo, Texas","2,892","257,156",89
+"Buffalo, New York","6,362","256,902",40
+"Madison, Wisconsin","3,289","252,551",77
+"Lubbock, Texas","2,063","252,506",122
+"Chandler, Arizona","3,842","247,477",64
+"Scottsdale, Arizona","1,341","246,645",184
+"Glendale, Arizona","4,100","245,895",60
+"Reno, Nevada","2,381","245,255",103
+"Norfolk, Virginia","4,529","245,115",54
+"Winston-Salem, North Carolina","1,829","242,203",132
+"North Las Vegas, Nevada","2,355","238,702",101
+"Irving, Texas","3,555","238,289",67
+"Chesapeake, Virginia",698,"237,940",341
+"Gilbert, Arizona","3,489","237,133",68
+"Hialeah, Florida","11,020","236,387",21
+"Garland, Texas","4,116","234,943",57
+"Fremont, California","3,010","233,136",77
+"Baton Rouge, Louisiana","2,959","227,715",77
+"Richmond, Virginia","3,731","223,170",60
+"Boise City, Idaho","2,812","223,154",79
+"San Bernardino, California","3,653","216,239",59
+"Spokane, Washington","3,645","215,973",59
+"Des Moines, Iowa","2,664","215,472",81
+"Modesto, California","5,755","212,175",37
+"Birmingham, Alabama","1,452","212,157",146
+"Tacoma, Washington","4,249","211,277",50
+"Fontana, California","4,941","209,665",42
+"Rochester, New York","5,838","208,880",36
+"Oxnard, California","7,732","207,906",27
+"Moreno Valley, California","4,008","205,499",51
+"Fayetteville, North Carolina","1,404","204,759",146
+"Aurora, Illinois","4,475","201,110",45
+"Glendale, California","6,595","200,831",30
+"Yonkers, New York","11,150","200,807",18
+"Huntington Beach, California","7,501","200,652",27
+"Montgomery, Alabama","1,254","200,022",160
+"Amarillo, Texas","2,006","199,582",99
+"Little Rock, Arkansas","1,666","198,541",119
+"Akron, Ohio","3,186","197,633",62
+"Columbus, Georgia",913,"197,485",216
+"Augusta-Richmond County, Georgia",652,"197,081",302
+"Grand Rapids, Michigan","4,424","196,445",44
+"Shreveport, Louisiana","1,850","194,920",105
+"Salt Lake City, Utah","1,744","193,744",111
+"Huntsville, Alabama",924,"193,079",209
+"Mobile, Alabama","1,387","192,904",139
+"Tallahassee, Florida","1,904","190,894",100
+"Grand Prairie, Texas","2,645","190,682",72
+"Overland Park, Kansas","2,525","188,966",75
+"Knoxville, Tennessee","1,890","186,239",99
+"Port St. Lucie, Florida","1,625","185,132",114
+"Worcester, Massachusetts","4,937","184,508",37
+"Brownsville, Texas","1,389","183,823",132
+"Tempe, Arizona","4,570","182,498",40
+"Santa Clarita, California","3,452","181,972",53
+"Newport News, Virginia","2,646","181,825",69
+"Cape Coral, Florida","1,702","179,804",106
+"Providence, Rhode Island","9,740","179,219",18
+"Fort Lauderdale, Florida","5,141","178,752",35
+"Chattanooga, Tennessee","1,295","177,571",137
+"Rancho Cucamonga, California","4,430","176,534",40
+"Oceanside, California","4,256","175,464",41
+"Santa Rosa, California","4,242","175,155",41
+"Garden Grove, California","9,747","174,858",18
+"Vancouver, Washington","3,763","174,826",46
+"Sioux Falls, South Dakota","2,390","174,360",73
+"Ontario, California","3,468","173,212",50
+"McKinney, Texas","2,770","172,298",62
+"Elk Grove, California","4,023","169,743",42
+"Jackson, Mississippi","1,523","169,148",111
+"Pembroke Pines, Florida","5,090","168,587",33
+"Salem, Oregon","3,495","167,419",48
+"Springfield, Missouri","2,047","167,319",82
+"Corona, California","4,295","166,785",39
+"Eugene, Oregon","3,810","166,575",44
+"Fort Collins, Colorado","3,025","164,207",54
+"Peoria, Arizona",941,"164,173",174
+"Frisco, Texas","2,648","163,656",62
+"Cary, North Carolina","2,987","162,320",54
+"Lancaster, California","1,698","160,106",94
+"Hayward, California","3,507","158,937",45
+"Palmdale, California","1,485","157,356",106
+"Salinas, California","6,782","157,218",23
+"Alexandria, Virginia","10,367","155,810",15
+"Lakewood, Colorado","3,601","154,393",43
+"Springfield, Massachusetts","4,834","154,074",32
+"Pasadena, Texas","3,586","153,351",43
+"Sunnyvale, California","6,947","152,771",22
+"Pomona, California","6,645","152,494",23
+"Hollywood, Florida","5,553","151,998",27
+"Kansas City, Kansas","1,216","151,709",125
+"Escondido, California","4,119","151,613",37
+"Clarksville, Tennessee","1,540","150,287",98
+"Joliet, Illinois","2,387","148,262",62
+"Rockford, Illinois","2,417","147,651",61
+"Torrance, California","7,187","147,195",20
+"Naperville, Illinois","3,795","147,122",39
+"Paterson, New Jersey","17,438","147,000",8
+"Savannah, Georgia","1,423","146,763",103
+"Bridgeport, Connecticut","9,138","145,936",16
+"Mesquite, Texas","3,123","143,736",46
+"Killeen, Texas","2,676","143,400",54
+"Syracuse, New York","5,726","143,378",25
+"McAllen, Texas","2,942","142,212",48
+"Pasadena, California","6,185","142,059",23
+"Bellevue, Washington","4,423","141,400",32
+"Fullerton, California","6,296","140,721",22
+"Orange, California","5,665","140,504",25
+"Dayton, Ohio","2,525","140,489",56
+"Miramar, Florida","4,690","138,449",30
+"Thornton, Colorado","3,924","136,703",35
+"West Valley City, Utah","3,841","136,574",36
+"Olathe, Kansas","2,271","135,473",60
+"Hampton, Virginia","2,634","135,410",51
+"Warren, Michigan","3,930","135,125",34
+"Midland, Texas","1,868","134,610",72
+"Waco, Texas","1,511","134,432",89
+"Charleston, South Carolina","1,233","134,385",109
+"Columbia, South Carolina","1,016","134,309",132
+"Denton, Texas","1,521","133,808",88
+"Carrollton, Texas","3,674","133,351",36
+"Surprise, Arizona","1,255","132,677",106
+"Roseville, California","3,663","132,671",36
+"Sterling Heights, Michigan","3,628","132,427",37
+"Murfreesboro, Tennessee","2,384","131,947",55
+"Gainesville, Florida","2,147","131,591",61
+"Cedar Rapids, Iowa","1,852","131,127",71
+"Visalia, California","3,616","131,074",36
+"Coral Springs, Florida","5,467","130,059",24
+"New Haven, Connecticut","6,956","129,934",19
+"Stamford, Connecticut","3,430","129,113",38
+"Thousand Oaks, California","2,342","128,888",55
+"Concord, California","4,214","128,726",31
+"Elizabeth, New Jersey","10,442","128,640",12
+"Lafayette, Louisiana","2,592","127,626",49
+"Kent, Washington","4,454","127,514",29
+"Topeka, Kansas","2,107","126,808",60
+"Simi Valley, California","3,045","126,327",41
+"Santa Clara, California","6,841","125,948",18
+"Athens-Clarke County, Georgia","1,060","123,371",116
+"Hartford, Connecticut","7,091","123,243",17
+"Victorville, California","1,671","122,265",73
+"Abilene, Texas","1,145","122,225",107
+"Norman, Oklahoma",683,"122,180",179
+"Vallejo, California","3,955","121,299",31
+"Berkeley, California","11,580","121,240",10
+"Round Rock, Texas","3,544","120,892",34
+"Ann Arbor, Michigan","4,340","120,782",28
+"Fargo, North Dakota","2,474","120,762",49
+"Columbia, Missouri","1,912","120,612",63
+"Allentown, Pennsylvania","6,863","120,443",18
+"Evansville, Indiana","2,706","119,477",44
+"Beaumont, Texas","1,429","118,299",83
+"Odessa, Texas","2,810","117,871",42
+"Wilmington, North Carolina","2,282","117,525",51
+"Arvada, Colorado","3,342","117,453",35
+"Independence, Missouri","1,509","117,030",78
+"Provo, Utah","2,805","116,868",42
+"Lansing, Michigan","3,218","116,020",36
+"El Monte, California","12,114","115,807",10
+"Springfield, Illinois","1,945","115,715",59
+"Fairfield, California","3,069","114,756",37
+"Clearwater, Florida","4,474","114,361",26
+"Peoria, Illinois","2,380","114,265",48
+"Rochester, Minnesota","2,088","114,011",55
+"Carlsbad, California","3,021","113,952",38
+"Westminster, Colorado","3,609","113,875",32
+"West Jordan, Utah","3,503","113,699",32
+"Pearland, Texas","2,415","113,570",47
+"Richardson, Texas","3,969","113,347",29
+"Downey, California","9,127","113,267",12
+"Miami Gardens, Florida","6,202","113,058",18
+"Temecula, California","3,750","113,054",30
+"Costa Mesa, California","7,209","112,822",16
+"College Station, Texas","2,268","112,141",49
+"Elgin, Illinois","3,017","112,123",37
+"Murrieta, California","3,326","111,674",34
+"Gresham, Oregon","4,807","111,523",23
+"High Point, North Carolina","2,067","111,223",54
+"Antioch, California","3,912","110,898",28
+"Inglewood, California","12,200","110,654",9
+"Cambridge, Massachusetts","17,316","110,651",6
+"Lowell, Massachusetts","8,141","110,558",14
+"Manchester, New Hampshire","3,339","110,506",33
+"Billings, Montana","2,541","110,323",43
+"Pueblo, Colorado","2,056","110,291",54
+"Palm Bay, Florida","1,676","110,104",66
+"Centennial, Colorado","3,828","109,932",29
+"Richmond, California","3,652","109,813",30
+"San Buenaventura, California","5,062","109,592",22
+"Pompano Beach, Florida","4,558","109,393",24
+"North Charleston, South Carolina","1,493","109,298",73
+"Everett, Washington","3,260","109,043",33
+"Waterbury, Connecticut","3,796","108,272",29
+"West Palm Beach, Florida","1,956","108,161",55
+"Boulder, Colorado","4,383","108,090",25
+"West Covina, California","6,724","107,847",16
+"Broken Arrow, Oklahoma","1,744","107,403",62
+"Clovis, California","4,578","106,583",23
+"Daly City, California","13,900","106,472",8
+"Lakeland, Florida","1,630","106,420",65
+"Santa Maria, California","4,670","106,290",23
+"Norwalk, California","10,935","106,178",10
+"Sandy Springs, Georgia","2,808","105,703",38
+"Hillsboro, Oregon","4,400","105,164",24
+"Green Bay, Wisconsin","2,312","105,139",45
+"Tyler, Texas","1,946","104,798",54
+"Wichita Falls, Texas","1,452","104,724",72
+"Lewisville, Texas","2,875","104,659",36
+"Burbank, California","6,023","104,447",17
+"Greeley, Colorado","2,234","103,990",47
+"San Mateo, California","8,570","103,959",12
+"El Cajon, California","7,191","103,768",14
+"Rialto, California","4,623","103,314",22
+"Davenport, Iowa","1,630","102,612",63
+"League City, Texas","1,989","102,010",51
+"Davie, Florida","2,920","101,871",35
+"Las Cruces, New Mexico","1,330","101,759",76
+"South Bend, Indiana","2,454","101,735",41
+"Vista, California","5,442","101,659",19
+"Renton, Washington","4,366",,
